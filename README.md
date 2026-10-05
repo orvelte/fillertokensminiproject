@@ -38,9 +38,9 @@ The model must answer with just the number. Prompts have 10 worked examples, and
 are switched off and checked to be zero. "Pass rate" means the share of repeated samples of one
 item that are correct.
 
-## What we found, and where to look
+## Findings
 
-Each row gives the finding in plain words, the script that produced it, and the figure that shows
+Each row describes the finding, the script that produced it, and the figure that shows
 it. All scripts and figures are in `scripts/`.
 
 | # | Finding | Script | Figure |
@@ -65,7 +65,7 @@ misses in that paper's decoded hidden states.
 
 ## Where each hypothesis stands
 
-| Hypothesis | In plain words | Status | Decided by finding |
+| Hypothesis | Reasoning | Status | Decided by finding |
 |---|---|---|---|
 | Majority vote | Filler picks the answer the model gives most often | Ruled out | 2 |
 | Sharpening | Filler acts like turning the temperature down | Ruled out as the main effect | 2 |
