@@ -198,3 +198,9 @@
 - Ran: `python scripts/talk_figures.py` ($0; existing results; seed 0).
 - Wrote: `scripts/fig_f12_groups.png`, `fig_f3_never_sampled.png`, `fig_f5_positions.png`, `fig_hypotheses_schematic.png` (the last is a conceptual sketch, not data).
 - Harder-task pilot mean in `fig_f3_never_sampled.png` is read from `archive/data/results/phase3_M60_hard_summary.json`, with the values recorded in `notes/phase3.md` as fallback.
+
+## 2026-10-05 — Figure: uplift on open-weight models (human-requested)
+- Ran: `python scripts/fig_open_models.py` ($0; existing results). Wrote `scripts/fig_open_model_uplift.png` and `data/results/open_model_uplift.csv`.
+
+## 2026-10-05 — README added (human-requested)
+- Wrote `README.md`: plain-language summary of the findings that changed the hypotheses, each mapped to its script and figure.
