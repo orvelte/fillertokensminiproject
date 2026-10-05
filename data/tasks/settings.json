@@ -1,0 +1,12 @@
+{
+  "seed": 20261004,
+  "max_coef": 3,
+  "const_min": 1,
+  "const_max": 50,
+  "num_terms": 5,
+  "chain_len": 1,
+  "val_min": 10,
+  "val_max": 99,
+  "n_few_shot": 10,
+  "n_eval": 600
+}

@@ -1,0 +1,1290 @@
+{
+ "one-hop, words": [
+  {
+   "definitions": [
+    [
+     "mol",
+     76
+    ],
+    [
+     "qup",
+     95
+    ],
+    [
+     "pil",
+     59
+    ],
+    [
+     "kic",
+     34
+    ],
+    [
+     "kel",
+     22
+    ]
+   ],
+   "question": "What is three times the number for mol minus 44?",
+   "answer": 184,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "words",
+   "x": 76,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "cuc",
+     64
+    ],
+    [
+     "feg",
+     55
+    ],
+    [
+     "bec",
+     "five times the number for feg minus 50"
+    ],
+    [
+     "nuq",
+     "ten times the number for bec minus 33"
+    ],
+    [
+     "qex",
+     "ten times the number for nuq minus 48"
+    ]
+   ],
+   "question": "What is three times the number for feg minus 33?",
+   "answer": 132,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "words",
+   "x": 55,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "zuv",
+     75
+    ],
+    [
+     "rij",
+     55
+    ],
+    [
+     "buk",
+     "three times the number for rij plus 9"
+    ],
+    [
+     "jaz",
+     "eleven times the number for rij minus 28"
+    ],
+    [
+     "ciz",
+     "twice the number for jaz plus 43"
+    ]
+   ],
+   "question": "What is three times the number for zuv minus 32?",
+   "answer": 193,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "words",
+   "x": 75,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "yuj",
+     88
+    ],
+    [
+     "xel",
+     37
+    ],
+    [
+     "viy",
+     "five times the number for yuj plus 7"
+    ],
+    [
+     "qus",
+     "three times the number for viy minus 49"
+    ],
+    [
+     "jij",
+     "five times the number for qus minus 22"
+    ]
+   ],
+   "question": "What is four times the number for yuj minus 33?",
+   "answer": 319,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "words",
+   "x": 88,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "nof",
+     86
+    ],
+    [
+     "kav",
+     25
+    ],
+    [
+     "mol",
+     74
+    ],
+    [
+     "zih",
+     "eleven times the number for mol plus 41"
+    ],
+    [
+     "zub",
+     88
+    ]
+   ],
+   "question": "What is four times the number for nof plus 10?",
+   "answer": 354,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "words",
+   "x": 86,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "lun",
+     43
+    ],
+    [
+     "rav",
+     "eleven times the number for lun plus 50"
+    ],
+    [
+     "vij",
+     26
+    ],
+    [
+     "mup",
+     "five times the number for vij minus 39"
+    ],
+    [
+     "kuq",
+     "ten times the number for rav minus 8"
+    ]
+   ],
+   "question": "What is five times the number for vij plus 36?",
+   "answer": 166,
+   "hops": 1,
+   "c1": 5,
+   "c2": null,
+   "wording": "words",
+   "x": 26,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "qib",
+     74
+    ],
+    [
+     "vah",
+     40
+    ],
+    [
+     "dih",
+     "five times the number for vah minus 2"
+    ],
+    [
+     "kut",
+     "four times the number for dih plus 25"
+    ],
+    [
+     "lup",
+     "three times the number for kut plus 16"
+    ]
+   ],
+   "question": "What is three times the number for vah plus 2?",
+   "answer": 122,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "words",
+   "x": 40,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "sox",
+     69
+    ],
+    [
+     "xix",
+     85
+    ],
+    [
+     "foq",
+     "twice the number for sox minus 22"
+    ],
+    [
+     "viq",
+     "eleven times the number for foq minus 29"
+    ],
+    [
+     "qet",
+     "twice the number for foq plus 2"
+    ]
+   ],
+   "question": "What is three times the number for sox minus 23?",
+   "answer": 184,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "words",
+   "x": 69,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "kuw",
+     72
+    ],
+    [
+     "fux",
+     80
+    ],
+    [
+     "daz",
+     34
+    ],
+    [
+     "kox",
+     56
+    ],
+    [
+     "lec",
+     28
+    ]
+   ],
+   "question": "What is eleven times the number for lec minus 38?",
+   "answer": 270,
+   "hops": 1,
+   "c1": 11,
+   "c2": null,
+   "wording": "words",
+   "x": 28,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "mul",
+     25
+    ],
+    [
+     "xin",
+     40
+    ],
+    [
+     "soj",
+     85
+    ],
+    [
+     "piz",
+     "twice the number for soj plus 39"
+    ],
+    [
+     "kiy",
+     "eleven times the number for soj minus 19"
+    ]
+   ],
+   "question": "What is four times the number for xin minus 44?",
+   "answer": 116,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "words",
+   "x": 40,
+   "y": null
+  }
+ ],
+ "two-hop, words": [
+  {
+   "definitions": [
+    [
+     "zis",
+     20
+    ],
+    [
+     "koy",
+     47
+    ],
+    [
+     "kus",
+     27
+    ],
+    [
+     "bul",
+     "twice the number for kus plus 44"
+    ],
+    [
+     "zum",
+     "eleven times the number for kus plus 29"
+    ]
+   ],
+   "question": "What is three times the number for zum plus 32?",
+   "answer": 1010,
+   "hops": 2,
+   "c1": 11,
+   "c2": 3,
+   "wording": "words",
+   "x": 27,
+   "y": 326
+  },
+  {
+   "definitions": [
+    [
+     "jiz",
+     96
+    ],
+    [
+     "duh",
+     79
+    ],
+    [
+     "jeq",
+     "three times the number for duh plus 29"
+    ],
+    [
+     "nov",
+     "four times the number for jiz plus 16"
+    ],
+    [
+     "sev",
+     "ten times the number for nov minus 9"
+    ]
+   ],
+   "question": "What is twice the number for nov minus 13?",
+   "answer": 787,
+   "hops": 2,
+   "c1": 4,
+   "c2": 2,
+   "wording": "words",
+   "x": 96,
+   "y": 400
+  },
+  {
+   "definitions": [
+    [
+     "quv",
+     20
+    ],
+    [
+     "guc",
+     19
+    ],
+    [
+     "gof",
+     "eleven times the number for guc plus 25"
+    ],
+    [
+     "rur",
+     "eleven times the number for quv minus 1"
+    ],
+    [
+     "yuq",
+     65
+    ]
+   ],
+   "question": "What is three times the number for rur plus 36?",
+   "answer": 693,
+   "hops": 2,
+   "c1": 11,
+   "c2": 3,
+   "wording": "words",
+   "x": 20,
+   "y": 219
+  },
+  {
+   "definitions": [
+    [
+     "kis",
+     52
+    ],
+    [
+     "mox",
+     "four times the number for kis minus 20"
+    ],
+    [
+     "saf",
+     "three times the number for kis minus 25"
+    ],
+    [
+     "duv",
+     91
+    ],
+    [
+     "cew",
+     "five times the number for kis plus 37"
+    ]
+   ],
+   "question": "What is twice the number for saf minus 44?",
+   "answer": 218,
+   "hops": 2,
+   "c1": 3,
+   "c2": 2,
+   "wording": "words",
+   "x": 52,
+   "y": 131
+  },
+  {
+   "definitions": [
+    [
+     "puf",
+     56
+    ],
+    [
+     "puj",
+     29
+    ],
+    [
+     "qus",
+     68
+    ],
+    [
+     "zol",
+     20
+    ],
+    [
+     "kel",
+     "three times the number for puj plus 44"
+    ]
+   ],
+   "question": "What is three times the number for kel minus 8?",
+   "answer": 385,
+   "hops": 2,
+   "c1": 3,
+   "c2": 3,
+   "wording": "words",
+   "x": 29,
+   "y": 131
+  },
+  {
+   "definitions": [
+    [
+     "gef",
+     56
+    ],
+    [
+     "box",
+     23
+    ],
+    [
+     "nuv",
+     "four times the number for box minus 49"
+    ],
+    [
+     "jix",
+     58
+    ],
+    [
+     "waj",
+     "ten times the number for jix minus 36"
+    ]
+   ],
+   "question": "What is twice the number for nuv plus 4?",
+   "answer": 90,
+   "hops": 2,
+   "c1": 4,
+   "c2": 2,
+   "wording": "words",
+   "x": 23,
+   "y": 43
+  },
+  {
+   "definitions": [
+    [
+     "jeb",
+     94
+    ],
+    [
+     "laq",
+     90
+    ],
+    [
+     "xes",
+     "five times the number for jeb plus 20"
+    ],
+    [
+     "jex",
+     48
+    ],
+    [
+     "ruy",
+     "twice the number for jex plus 34"
+    ]
+   ],
+   "question": "What is twice the number for ruy minus 2?",
+   "answer": 258,
+   "hops": 2,
+   "c1": 2,
+   "c2": 2,
+   "wording": "words",
+   "x": 48,
+   "y": 130
+  },
+  {
+   "definitions": [
+    [
+     "kun",
+     93
+    ],
+    [
+     "caf",
+     90
+    ],
+    [
+     "tel",
+     "ten times the number for caf plus 44"
+    ],
+    [
+     "quq",
+     16
+    ],
+    [
+     "paj",
+     "five times the number for kun minus 8"
+    ]
+   ],
+   "question": "What is three times the number for tel minus 39?",
+   "answer": 2793,
+   "hops": 2,
+   "c1": 10,
+   "c2": 3,
+   "wording": "words",
+   "x": 90,
+   "y": 944
+  },
+  {
+   "definitions": [
+    [
+     "dov",
+     29
+    ],
+    [
+     "xev",
+     "four times the number for dov minus 22"
+    ],
+    [
+     "vup",
+     "eleven times the number for dov plus 12"
+    ],
+    [
+     "qaf",
+     "three times the number for vup plus 37"
+    ],
+    [
+     "nir",
+     "ten times the number for qaf minus 26"
+    ]
+   ],
+   "question": "What is twice the number for vup plus 44?",
+   "answer": 706,
+   "hops": 2,
+   "c1": 11,
+   "c2": 2,
+   "wording": "words",
+   "x": 29,
+   "y": 331
+  },
+  {
+   "definitions": [
+    [
+     "fiz",
+     77
+    ],
+    [
+     "guw",
+     36
+    ],
+    [
+     "waz",
+     "four times the number for guw minus 42"
+    ],
+    [
+     "peh",
+     "five times the number for waz minus 5"
+    ],
+    [
+     "pok",
+     "five times the number for waz minus 44"
+    ]
+   ],
+   "question": "What is twice the number for waz minus 7?",
+   "answer": 197,
+   "hops": 2,
+   "c1": 4,
+   "c2": 2,
+   "wording": "words",
+   "x": 36,
+   "y": 102
+  }
+ ],
+ "one-hop, symbolic": [
+  {
+   "definitions": [
+    [
+     "mub",
+     32
+    ],
+    [
+     "buj",
+     95
+    ],
+    [
+     "vuv",
+     "3·buj - 5"
+    ],
+    [
+     "xaf",
+     "3·buj + 16"
+    ],
+    [
+     "fis",
+     "10·xaf + 20"
+    ]
+   ],
+   "question": "What is 10·buj + 9?",
+   "answer": 959,
+   "hops": 1,
+   "c1": 10,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 95,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "muw",
+     73
+    ],
+    [
+     "waz",
+     "10·muw + 22"
+    ],
+    [
+     "tof",
+     "2·muw + 31"
+    ],
+    [
+     "kuj",
+     55
+    ],
+    [
+     "xec",
+     "2·tof - 49"
+    ]
+   ],
+   "question": "What is 10·muw - 30?",
+   "answer": 700,
+   "hops": 1,
+   "c1": 10,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 73,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "yoj",
+     39
+    ],
+    [
+     "tiz",
+     45
+    ],
+    [
+     "zub",
+     "10·yoj + 7"
+    ],
+    [
+     "dof",
+     "2·zub + 44"
+    ],
+    [
+     "jax",
+     "2·zub - 29"
+    ]
+   ],
+   "question": "What is 4·yoj - 12?",
+   "answer": 144,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 39,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "nav",
+     49
+    ],
+    [
+     "luf",
+     "4·nav + 47"
+    ],
+    [
+     "bih",
+     23
+    ],
+    [
+     "suc",
+     "2·bih - 15"
+    ],
+    [
+     "luz",
+     "10·bih - 42"
+    ]
+   ],
+   "question": "What is 2·nav - 27?",
+   "answer": 71,
+   "hops": 1,
+   "c1": 2,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 49,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "tis",
+     30
+    ],
+    [
+     "zil",
+     61
+    ],
+    [
+     "nav",
+     68
+    ],
+    [
+     "zum",
+     "10·nav + 10"
+    ],
+    [
+     "lir",
+     "3·zum + 48"
+    ]
+   ],
+   "question": "What is 3·nav - 31?",
+   "answer": 173,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 68,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "lic",
+     66
+    ],
+    [
+     "vuq",
+     90
+    ],
+    [
+     "fik",
+     62
+    ],
+    [
+     "sor",
+     44
+    ],
+    [
+     "zok",
+     "2·fik - 4"
+    ]
+   ],
+   "question": "What is 3·sor + 45?",
+   "answer": 177,
+   "hops": 1,
+   "c1": 3,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 44,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "zor",
+     16
+    ],
+    [
+     "xom",
+     82
+    ],
+    [
+     "puw",
+     12
+    ],
+    [
+     "wic",
+     "3·puw - 23"
+    ],
+    [
+     "zuw",
+     86
+    ]
+   ],
+   "question": "What is 4·zuw - 11?",
+   "answer": 333,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 86,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "qol",
+     99
+    ],
+    [
+     "rez",
+     33
+    ],
+    [
+     "kuw",
+     "4·rez + 1"
+    ],
+    [
+     "saf",
+     "4·rez + 8"
+    ],
+    [
+     "piz",
+     "4·rez - 38"
+    ]
+   ],
+   "question": "What is 4·rez + 15?",
+   "answer": 147,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 33,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "giq",
+     50
+    ],
+    [
+     "xok",
+     18
+    ],
+    [
+     "kem",
+     "10·giq + 4"
+    ],
+    [
+     "ruw",
+     "3·giq - 15"
+    ],
+    [
+     "jez",
+     "2·ruw + 11"
+    ]
+   ],
+   "question": "What is 4·giq - 43?",
+   "answer": 157,
+   "hops": 1,
+   "c1": 4,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 50,
+   "y": null
+  },
+  {
+   "definitions": [
+    [
+     "qav",
+     36
+    ],
+    [
+     "puf",
+     58
+    ],
+    [
+     "qem",
+     95
+    ],
+    [
+     "jit",
+     22
+    ],
+    [
+     "fok",
+     62
+    ]
+   ],
+   "question": "What is 2·qav + 26?",
+   "answer": 98,
+   "hops": 1,
+   "c1": 2,
+   "c2": null,
+   "wording": "symbolic",
+   "x": 36,
+   "y": null
+  }
+ ],
+ "two-hop, symbolic": [
+  {
+   "definitions": [
+    [
+     "zoh",
+     25
+    ],
+    [
+     "sul",
+     25
+    ],
+    [
+     "wej",
+     "2·sul - 33"
+    ],
+    [
+     "jox",
+     "3·sul + 13"
+    ],
+    [
+     "qic",
+     "3·wej + 1"
+    ]
+   ],
+   "question": "What is 2·wej + 36?",
+   "answer": 70,
+   "hops": 2,
+   "c1": 2,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 25,
+   "y": 17
+  },
+  {
+   "definitions": [
+    [
+     "baq",
+     15
+    ],
+    [
+     "kel",
+     "3·baq - 12"
+    ],
+    [
+     "yoc",
+     "3·baq + 49"
+    ],
+    [
+     "xoy",
+     "3·baq + 24"
+    ],
+    [
+     "hif",
+     "10·yoc - 41"
+    ]
+   ],
+   "question": "What is 2·xoy + 1?",
+   "answer": 139,
+   "hops": 2,
+   "c1": 3,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 15,
+   "y": 69
+  },
+  {
+   "definitions": [
+    [
+     "gav",
+     99
+    ],
+    [
+     "jel",
+     91
+    ],
+    [
+     "juz",
+     "3·jel + 30"
+    ],
+    [
+     "qor",
+     "2·jel + 38"
+    ],
+    [
+     "bec",
+     "2·jel + 6"
+    ]
+   ],
+   "question": "What is 2·juz - 4?",
+   "answer": 602,
+   "hops": 2,
+   "c1": 3,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 91,
+   "y": 303
+  },
+  {
+   "definitions": [
+    [
+     "tuj",
+     46
+    ],
+    [
+     "beq",
+     56
+    ],
+    [
+     "zod",
+     "2·beq - 31"
+    ],
+    [
+     "koy",
+     "4·beq - 8"
+    ],
+    [
+     "vor",
+     "3·zod + 38"
+    ]
+   ],
+   "question": "What is 2·zod - 40?",
+   "answer": 122,
+   "hops": 2,
+   "c1": 2,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 56,
+   "y": 81
+  },
+  {
+   "definitions": [
+    [
+     "caf",
+     71
+    ],
+    [
+     "kik",
+     "10·caf + 38"
+    ],
+    [
+     "nek",
+     "3·kik + 4"
+    ],
+    [
+     "cif",
+     "10·kik + 38"
+    ],
+    [
+     "fuf",
+     "2·cif + 10"
+    ]
+   ],
+   "question": "What is 2·kik + 41?",
+   "answer": 1537,
+   "hops": 2,
+   "c1": 10,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 71,
+   "y": 748
+  },
+  {
+   "definitions": [
+    [
+     "quj",
+     85
+    ],
+    [
+     "ves",
+     "4·quj + 48"
+    ],
+    [
+     "yaf",
+     "4·quj - 10"
+    ],
+    [
+     "raf",
+     "4·ves + 6"
+    ],
+    [
+     "fus",
+     "2·yaf + 46"
+    ]
+   ],
+   "question": "What is 3·ves + 39?",
+   "answer": 1203,
+   "hops": 2,
+   "c1": 4,
+   "c2": 3,
+   "wording": "symbolic",
+   "x": 85,
+   "y": 388
+  },
+  {
+   "definitions": [
+    [
+     "mep",
+     17
+    ],
+    [
+     "xer",
+     24
+    ],
+    [
+     "cux",
+     "4·xer + 6"
+    ],
+    [
+     "fuj",
+     "3·xer - 48"
+    ],
+    [
+     "mih",
+     "10·fuj + 42"
+    ]
+   ],
+   "question": "What is 2·fuj + 49?",
+   "answer": 97,
+   "hops": 2,
+   "c1": 3,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 24,
+   "y": 24
+  },
+  {
+   "definitions": [
+    [
+     "gep",
+     80
+    ],
+    [
+     "muf",
+     "2·gep - 8"
+    ],
+    [
+     "naf",
+     "3·gep + 20"
+    ],
+    [
+     "ter",
+     51
+    ],
+    [
+     "qus",
+     20
+    ]
+   ],
+   "question": "What is 2·naf + 8?",
+   "answer": 528,
+   "hops": 2,
+   "c1": 3,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 80,
+   "y": 260
+  },
+  {
+   "definitions": [
+    [
+     "haf",
+     30
+    ],
+    [
+     "rop",
+     60
+    ],
+    [
+     "zay",
+     "10·rop + 19"
+    ],
+    [
+     "pag",
+     "10·zay - 10"
+    ],
+    [
+     "der",
+     "2·haf - 43"
+    ]
+   ],
+   "question": "What is 2·zay + 27?",
+   "answer": 1265,
+   "hops": 2,
+   "c1": 10,
+   "c2": 2,
+   "wording": "symbolic",
+   "x": 60,
+   "y": 619
+  },
+  {
+   "definitions": [
+    [
+     "yod",
+     14
+    ],
+    [
+     "moj",
+     11
+    ],
+    [
+     "rop",
+     "4·moj - 39"
+    ],
+    [
+     "hes",
+     "10·rop + 10"
+    ],
+    [
+     "jup",
+     "2·rop + 15"
+    ]
+   ],
+   "question": "What is 3·rop + 19?",
+   "answer": 34,
+   "hops": 2,
+   "c1": 4,
+   "c2": 3,
+   "wording": "symbolic",
+   "x": 11,
+   "y": 5
+  }
+ ]
+}

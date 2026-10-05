@@ -1,0 +1,28 @@
+{
+ "target_tokens": 100,
+ "seed": 20261004,
+ "token_counts": {
+  "dots": 100,
+  "repeated word": 100,
+  "counting, words": 100,
+  "counting, digits": 100,
+  "short cycle": 100,
+  "memorized text": 100,
+  "prose P+Q": 100,
+  "prose P+P": 100,
+  "shuffled prose": 100,
+  "random vocabulary": 100
+ },
+ "fillers": {
+  "dots": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "repeated word": "the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+  "counting, words": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty one twenty two twenty three twenty four twenty five twenty six twenty seven twenty eight twenty nine thirty thirty one thirty two thirty three thirty four thirty five thirty six thirty seven thirty eight thirty nine forty forty one forty two forty three forty four forty five forty six forty seven forty eight forty nine fifty fifty one fifty two fifty three fifty four fifty five fifty six fifty seven fifty eight fifty nine sixty sixty one sixty two",
+  "counting, digits": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50",
+  "short cycle": "red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red blue green red",
+  "memorized text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation",
+  "prose P+Q": "The town library opens early on weekdays and stays quiet until the afternoon. People come in to read the newspaper, return books, and ask about new arrivals. The staff keep the shelves tidy and help visitors find what they need, and in the evening A small bakery sits on the corner near the bus stop. In the morning the owner arranges bread and pastries in the window while regulars wait outside. By noon most of the loaves are gone and the shop grows calm again, so the",
+  "prose P+P": "The town library opens early on weekdays and stays quiet until the afternoon. People come in to read the newspaper, return books, and ask about new arrivals. The staff keep the shelves tidy and help visitors find what they need, and in the evening The town library opens early on weekdays and stays quiet until the afternoon. People come in to read the newspaper, return books, and ask about new arrivals. The staff keep the shelves tidy and help visitors find what they need, and in the evening",
+  "shuffled prose": "new in grows library the morning noon early regulars find keep in on while tidy staff the until and small so The the the bread on in the and bus the outside. sits People and gone wait are stays the what books, need, near town evening return again, In and the A shop the stop. read owner opens ask come most of pastries quiet By newspaper, the and loaves help the shelves afternoon. The arrivals. bakery calm the arranges to about window visitors corner they weekdays and",
+  "random vocabulary": "paired avril shrinking shaking mai palate forg monkeys worlds fulfilling thorn powsta admitted court conforme przyczyn reversed stratum homeowners saber redirected otherwise virtues parable furniture half inch lorsque seedling size familial transfer dividing divisible sixteen fundament slabs noexcept loft numpy rhyth vibr consolidation destabil checkout rooting lign documenting wonderfully casts colossal tracker amusing pratic spectrophot downwards tenga satisfactory faithfulness aspire duplicates snowy automobile informally coating associ escalate savor inversion noting concep tossed compliance fors familiarity relegated chlorophyll historia already higher tar utama bok slavery rin report suspects outwardly disgu resonator worsen dangerous chol internet cardiomyopathy carbonate synthetic nonex stoichi flip"
+ }
+}

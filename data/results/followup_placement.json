@@ -1,0 +1,97 @@
+{
+ "parse_rate": {
+  "after the question": 1.0,
+  "before everything": 1.0,
+  "between definitions and question": 1.0,
+  "no filler": 0.9983333333333333
+ },
+ "all": {
+  "no filler": {
+   "gain_pp": 0.0,
+   "up": 0,
+   "down": 0,
+   "p": NaN,
+   "acc": 0.535,
+   "p_vs_standard": NaN
+  },
+  "before everything": {
+   "gain_pp": -9.166666666666668,
+   "up": 29,
+   "down": 84,
+   "p": 2.2007730621646813e-07,
+   "acc": 0.44333333333333336,
+   "p_vs_standard": 4.813511452666796e-24
+  },
+  "between definitions and question": {
+   "gain_pp": -2.500000000000002,
+   "up": 53,
+   "down": 68,
+   "p": 0.20292429055143718,
+   "acc": 0.51,
+   "p_vs_standard": 1.1987559175109566e-12
+  },
+  "after the question": {
+   "gain_pp": 9.999999999999998,
+   "up": 89,
+   "down": 29,
+   "p": 2.8230349944117135e-08,
+   "acc": 0.635,
+   "p_vs_standard": NaN
+  }
+ },
+ "by_c1": {
+  "2": {
+   "no filler": {
+    "acc": 0.8385964912280702
+   },
+   "before everything": {
+    "acc": 0.7263157894736842,
+    "gain_pp": -11.228070175438598,
+    "up": 10,
+    "down": 42,
+    "p": 9.063271916964766e-06
+   },
+   "between definitions and question": {
+    "acc": 0.8350877192982457,
+    "gain_pp": -0.35087719298245723,
+    "up": 24,
+    "down": 25,
+    "p": 1.0
+   },
+   "after the question": {
+    "acc": 0.9473684210526315,
+    "gain_pp": 10.87719298245613,
+    "up": 37,
+    "down": 6,
+    "p": 1.636124125070637e-06
+   }
+  },
+  "3": {
+   "no filler": {
+    "acc": 0.26031746031746034
+   },
+   "before everything": {
+    "acc": 0.1873015873015873,
+    "gain_pp": -7.301587301587303,
+    "up": 19,
+    "down": 42,
+    "p": 0.004444019471066869
+   },
+   "between definitions and question": {
+    "acc": 0.21587301587301588,
+    "gain_pp": -4.4444444444444455,
+    "up": 29,
+    "down": 43,
+    "p": 0.12491820036864004
+   },
+   "after the question": {
+    "acc": 0.3523809523809524,
+    "gain_pp": 9.206349206349207,
+    "up": 52,
+    "down": 23,
+    "p": 0.0010795155066662817
+   }
+  }
+ },
+ "preregistered_verdict": "no criterion met"
+}

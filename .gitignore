@@ -1,0 +1,10 @@
+.env
+cache/
+__pycache__/
+*.pyc
+.DS_Store
+neelsprompt.md
+paper/
+
+# Follow-ups and pilots that do not bear on the current conclusions (see archive/README.md)
+archive/

@@ -1,0 +1,23 @@
+{
+ "shuffled prose vs prose P+Q": {
+  "acc_first": 0.58,
+  "acc_second": 0.65,
+  "up": 9,
+  "down": 2,
+  "p": 0.0654296875
+ },
+ "prose P+Q vs prose P+P": {
+  "acc_first": 0.65,
+  "acc_second": 0.61,
+  "up": 2,
+  "down": 6,
+  "p": 0.2890625
+ },
+ "counting, digits vs counting, words": {
+  "acc_first": 0.62,
+  "acc_second": 0.56,
+  "up": 2,
+  "down": 8,
+  "p": 0.109375
+ }
+}

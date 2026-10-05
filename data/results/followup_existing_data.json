@@ -1,0 +1,241 @@
+{
+ "error_types_pct_of_samples": {
+  "k0_T1.0": {
+   "binding: question applied to another variable": 1.3542,
+   "final-step structural (sign / coefficient / dropped step)": 3.0,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": 1.4583,
+   "other, consistent with wrong y + correct final step": 45.6875,
+   "other, final step itself wrong": 1.625,
+   "unparsed": 0.4167,
+   "TOTAL wrong": 53.5417
+  },
+  "k0_T0.4": {
+   "binding: question applied to another variable": 1.3125,
+   "final-step structural (sign / coefficient / dropped step)": 3.25,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": 1.1667,
+   "other, consistent with wrong y + correct final step": 41.0208,
+   "other, final step itself wrong": 1.0,
+   "unparsed": 0.25,
+   "TOTAL wrong": 48.0
+  },
+  "F_T1.0": {
+   "binding: question applied to another variable": 1.2917,
+   "final-step structural (sign / coefficient / dropped step)": 2.0833,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": 1.1042,
+   "other, consistent with wrong y + correct final step": 33.2083,
+   "other, final step itself wrong": 0.1042,
+   "unparsed": 0.0625,
+   "TOTAL wrong": 37.8542
+  },
+  "filler - k0 (pts)": {
+   "binding: question applied to another variable": -0.0625,
+   "final-step structural (sign / coefficient / dropped step)": -0.9167,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": -0.3542,
+   "other, consistent with wrong y + correct final step": -12.4792,
+   "other, final step itself wrong": -1.5208,
+   "unparsed": -0.3542,
+   "TOTAL wrong": -15.6875
+  },
+  "relative change": {
+   "binding: question applied to another variable": -0.0462,
+   "final-step structural (sign / coefficient / dropped step)": -0.3056,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": -0.2429,
+   "other, consistent with wrong y + correct final step": -0.2731,
+   "other, final step itself wrong": -0.9359,
+   "unparsed": -0.85,
+   "TOTAL wrong": -0.293
+  }
+ },
+ "residue_test": {
+  "c2=2|F_T1.0": {
+   "share_valid": 0.9983552631578947,
+   "n": 608
+  },
+  "c2=2|k0_T0.4": {
+   "share_valid": 0.9660377358490566,
+   "n": 795
+  },
+  "c2=2|k0_T0.7": {
+   "share_valid": 0.9566236811254396,
+   "n": 853
+  },
+  "c2=2|k0_T1.0": {
+   "share_valid": 0.9558359621451105,
+   "n": 951
+  },
+  "c2=3|F_T1.0": {
+   "share_valid": 0.9959636730575177,
+   "n": 991
+  },
+  "c2=3|k0_T0.4": {
+   "share_valid": 0.9828150572831423,
+   "n": 1222
+  },
+  "c2=3|k0_T0.7": {
+   "share_valid": 0.9759422614274258,
+   "n": 1247
+  },
+  "c2=3|k0_T1.0": {
+   "share_valid": 0.9727272727272728,
+   "n": 1320
+  }
+ },
+ "diff_k0_T1.0": {
+  "n": 2271,
+  "mult100": 0.002642007926023778,
+  "mult10": 0.25055041831792163,
+  "within10": 0.1809775429326288,
+  "top": [
+   [
+    -12,
+    151
+   ],
+   [
+    -30,
+    129
+   ],
+   [
+    -24,
+    109
+   ],
+   [
+    -60,
+    98
+   ],
+   [
+    -18,
+    92
+   ],
+   [
+    12,
+    89
+   ],
+   [
+    30,
+    79
+   ],
+   [
+    -6,
+    78
+   ]
+  ]
+ },
+ "diff_F_T1.0": {
+  "n": 1599,
+  "mult100": 0.0050031269543464665,
+  "mult10": 0.24577861163227016,
+  "within10": 0.14634146341463414,
+  "top": [
+   [
+    -12,
+    131
+   ],
+   [
+    12,
+    116
+   ],
+   [
+    -30,
+    99
+   ],
+   [
+    -24,
+    72
+   ],
+   [
+    30,
+    69
+   ],
+   [
+    18,
+    60
+   ],
+   [
+    -60,
+    54
+   ],
+   [
+    -6,
+    52
+   ]
+  ]
+ },
+ "k0_error_mix_by_item_kind_pct": {
+  "flips up (>= +50 pts)": {
+   "binding: question applied to another variable": 3.87,
+   "final-step structural (sign / coefficient / dropped step)": 6.656,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": 1.548,
+   "other, consistent with wrong y + correct final step": 82.972,
+   "other, final step itself wrong": 3.87,
+   "unparsed": 1.084
+  },
+  "stuck wrong (<= 25% both)": {
+   "binding: question applied to another variable": 1.876,
+   "final-step structural (sign / coefficient / dropped step)": 3.968,
+   "hop-1 structural (sign / coefficient / dropped constant / wrong source)": 3.102,
+   "other, consistent with wrong y + correct final step": 88.384,
+   "other, final step itself wrong": 1.948,
+   "unparsed": 0.722
+  }
+ },
+ "item_kinds": {
+  "other": 161,
+  "stuck wrong (<= 25% both)": 91,
+  "flips up (>= +50 pts)": 48
+ },
+ "stuck_same_top_wrong_answer": 0.38461538461538464,
+ "concentration": {
+  "flips up (>= +50 pts)|F_T1.0": {
+   "n_distinct": 1.812,
+   "top_wrong_share": 0.059
+  },
+  "flips up (>= +50 pts)|k0_T1.0": {
+   "n_distinct": 7.5,
+   "top_wrong_share": 0.365
+  },
+  "other|F_T1.0": {
+   "n_distinct": 1.739,
+   "top_wrong_share": 0.097
+  },
+  "other|k0_T1.0": {
+   "n_distinct": 2.919,
+   "top_wrong_share": 0.101
+  },
+  "stuck wrong (<= 25% both)|F_T1.0": {
+   "n_distinct": 4.407,
+   "top_wrong_share": 0.598
+  },
+  "stuck wrong (<= 25% both)|k0_T1.0": {
+   "n_distinct": 8.11,
+   "top_wrong_share": 0.376
+  }
+ },
+ "cross_filler_wrong at k=0": {
+  "n": 279,
+  "dots": 89,
+  "counting": 83,
+  "both": 61,
+  "expected_independent": 26.476702508960575,
+  "odds_ratio": 16.636363636363637,
+  "fisher_p": 1.2924601345337664e-21
+ },
+ "cross_filler_right at k=0": {
+  "n": 321,
+  "dots": 29,
+  "counting": 31,
+  "both": 18,
+  "expected_independent": 2.8006230529595015,
+  "odds_ratio": 35.11888111888112,
+  "fisher_p": 3.5662890101249275e-14
+ },
+ "low_p0_pf_by_counting_greedy": {
+  "False": {
+   "mean_pf": 0.09858247422680412,
+   "n": 97
+  },
+  "True": {
+   "mean_pf": 0.7434895833333334,
+   "n": 48
+  }
+ }
+}
